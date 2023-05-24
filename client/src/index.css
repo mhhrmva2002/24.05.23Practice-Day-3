@@ -1,0 +1,48 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.navButton{
+margin: 0 43%;
+}
+.AppBar{
+  background-color: white !important;
+}
+.one{
+  padding: 5% 0% 0 20%;
+  display: flex;
+height: 80vh;
+background-color: #f6214b;
+}
+.Book{
+  padding: 10px 20px;
+  font-size: 20px;
+}
+.Book:hover{
+background-color: #f6214b;
+color: white;
+}
+.onr-div{
+  margin-top: 10%;
+  width: 80%;
+font-size: 40px;
+color: white;
+}
+.shekil{
+  width:86% ;
+  height:100% ;
+  background-image: url(https://preview.colorlib.com/theme/immigration/img/header-img.png.webp);
+}
+.home:hover{
+color:#f6214b !important ;
+}
+.box{
+  margin: 0 17%;
+}
+.delete:hover{
+  background-color: #f6214b !important;
+  }
+  span{
+    font-size: 50px;
+  }
